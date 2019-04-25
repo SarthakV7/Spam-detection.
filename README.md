@@ -1,12 +1,12 @@
 # Spam-detection.
 Spam detection using Machine Learning with TF-IDF Vectorizer and Linear SVC.
 
-# Libraries used-
+## Libraries used-
  - numpy
  - pandas
  - matplotlib
  - sklearn
  
-# Algorithms used-
+## Algorithms used-
  - TfidfVectorizer
  - LinearSVC
