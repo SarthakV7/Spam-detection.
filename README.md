@@ -1,5 +1,5 @@
 # Spam-detection.
-Spam detection using Machine Learning with TF-IDF Vectorizer and Linear SVC.
+Spam detection using Machine Learning with TF-IDF Vectorizer and Linear SVC written on Python 3.6
 
 ## Libraries used-
  - numpy
